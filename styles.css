@@ -4,4 +4,5 @@ h1 {
 
 #welcome {
   color: rgba(105, 41, 93, 1);
+  font-weight: bold;
 }
